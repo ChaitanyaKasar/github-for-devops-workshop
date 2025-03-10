@@ -1,4 +1,9 @@
 def my_function():
-  a=4;
+  a=4
+  b=6
+  c=9
 
-  return b;
+  return d;
+
+
+my_function
