@@ -1,9 +1,6 @@
 def my_function():
-  a=4
-  b=6
-  c=9
-
-  return d;
+    passw = "abc@123"
+    return passw
 
 
-my_function
+my_function()
