@@ -1,6 +1,6 @@
 def my_function():
-    passw = "abc@123"
-    return passw
+    p = 1
+    return p
 
 
 my_function()
