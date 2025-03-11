@@ -1,6 +1,6 @@
 def my_function():
-    p = 1
-    return p
+
+    return "Hello World"
 
 
 my_function()
